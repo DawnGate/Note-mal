@@ -1,1 +1,22 @@
+# rtk query with redux saga => the comment of maintainer of redux is some thing need read
+https://dev.to/thisisgazzar/rtk-query-vs-redux-saga-what-to-choose-for-your-next-project-4j5g
+
+# @desc Youtube of css man, he told about how learning not how copying like a birds
+# @tag additional knowledge
+https://www.youtube.com/shorts/cMtYwPcwcBU
+
+# @desc The promises only fire one, => pub/sub handle not with this
+# @tag infomation
+Because promises only fire once. A promise is created/initialized, and then settled, and once settled can never be un-settled or re-settled. Calling resolve or reject a second (third, fourth, ...) time is a no-op. (Some believe it should be an error, but it isn't.) Promises are not events, they cannot recur. So for what that code is doing, a promise isn't the right tool. => event emitter, or pub/sub
+
+# @desc This for protect your private and public routes in react app
+# @tag architect 
+https://www.robinwieruch.de/react-router-private-routes/
+
+# @desc 
+# @tag
+
+# @desc This how broser work and read it for knowledge
+# @tag knowledge behind
+https://web.dev/howbrowserswork/
 
