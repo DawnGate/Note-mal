@@ -20,3 +20,6 @@ https://www.robinwieruch.de/react-router-private-routes/
 # @tag knowledge behind
 https://web.dev/howbrowserswork/
 
+# @desc This is resource for learning pattern in frontend web
+# @tag pattern design
+https://www.patterns.dev/resources/
