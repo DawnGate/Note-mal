@@ -1,3 +1,7 @@
 # js visualize under the hood
 # 
 https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
+
+
+# js question
+https://github.com/lydiahallie/javascript-questions
