@@ -15,3 +15,6 @@ refactor: A code that neither fix bug nor adds a feature. (eg: You can use this 
 perf: A code that improves performance
 style: A code that is related to styling
 test: Adding new test or making changes to existing test
+
+# something about performance an utils information
+https://viblo.asia/u/monmen
