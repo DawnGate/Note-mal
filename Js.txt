@@ -5,3 +5,6 @@ https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
 
 # js question
 https://github.com/lydiahallie/javascript-questions
+
+# Deep dive in event loop
+https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810
