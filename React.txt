@@ -28,3 +28,9 @@ https://www.patterns.dev/resources/
 #@desc: linkfree is opensource for alternative to LinkTree.
 #@tag nextjs opensource
 https://github.com/EddieHubCommunity/LinkFree
+
+#desc: blog tell about update a project to new techstack
+#@tag react architecture update upgrade
+https://medium.com/naukri-engineering/migrating-a-react-16-application-to-react-18-with-webpack-5-435d044b846
+https://medium.com/naukri-engineering/moving-resdex-to-spa-66df3ecd665d
+https://medium.com/naukri-engineering/moving-cv-detail-page-to-spa-dfd68984b110
