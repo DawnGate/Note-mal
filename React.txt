@@ -23,3 +23,8 @@ https://web.dev/howbrowserswork/
 # @desc This is resource for learning pattern in frontend web
 # @tag pattern design
 https://www.patterns.dev/resources/
+
+
+#@desc: linkfree is opensource for alternative to LinkTree.
+#@tag nextjs opensource
+https://github.com/EddieHubCommunity/LinkFree
