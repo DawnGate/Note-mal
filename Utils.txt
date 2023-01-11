@@ -22,3 +22,7 @@ https://viblo.asia/u/monmen
 
 #https://github.com/webuild-community
 We build community where vietnamese around the world share information about technologies
+
+# desc: Free for dev => Free SaaS, PaaS, IaaS,.. for devs
+# tag: free tools
+https://github.com/ripienaar/free-for-dev
