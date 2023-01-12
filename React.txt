@@ -34,3 +34,8 @@ https://github.com/EddieHubCommunity/LinkFree
 https://medium.com/naukri-engineering/migrating-a-react-16-application-to-react-18-with-webpack-5-435d044b846
 https://medium.com/naukri-engineering/moving-resdex-to-spa-66df3ecd665d
 https://medium.com/naukri-engineering/moving-cv-detail-page-to-spa-dfd68984b110
+
+
+#desc: react structure
+#tag: architect
+https://christopherclemmons.medium.com/structure-your-react-project-like-a-senior-developer-6cf88b5d8d73?source=user_profile---------4----------------------------
