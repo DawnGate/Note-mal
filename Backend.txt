@@ -1,3 +1,6 @@
 # @desc This how background jobs and worker learning proces
 # @tag background jobs
 https://viblo.asia/s/nghe-thuat-xu-ly-background-job-0gdJzvqnJz5
+
+#nodejs learn
+https://dev.to/gaelgthomas/10-github-repositories-you-should-know-as-a-javascript-developer-2ji6
