@@ -39,3 +39,6 @@ https://medium.com/naukri-engineering/moving-cv-detail-page-to-spa-dfd68984b110
 #desc: react structure
 #tag: architect
 https://christopherclemmons.medium.com/structure-your-react-project-like-a-senior-developer-6cf88b5d8d73?source=user_profile---------4----------------------------
+
+#desc frontend kit
+https://github.com/sadanandpai/frontend-learning-kit.git
