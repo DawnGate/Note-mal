@@ -42,3 +42,7 @@ https://christopherclemmons.medium.com/structure-your-react-project-like-a-senio
 
 #desc frontend kit
 https://github.com/sadanandpai/frontend-learning-kit.git
+
+
+##dummy data
+https://dummyjson.com/docs/products
