@@ -54,3 +54,7 @@ https://github.com/shadeemerhi/imessage-graphql/blob/main/frontend/src/component
 
 ## How web browsers works with illutrations
 https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b
+
+
+## How 5 projects to master frontend 
+https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p
