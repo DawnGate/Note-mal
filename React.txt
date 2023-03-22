@@ -50,3 +50,7 @@ https://dummyjson.com/docs/products
 ## chat app with nextjs
 https://www.youtube.com/watch?v=mj_Qe2jBYS4
 https://github.com/shadeemerhi/imessage-graphql/blob/main/frontend/src/components/Auth/Auth.tsx
+
+
+## How web browsers works with illutrations
+https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b
