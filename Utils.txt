@@ -30,3 +30,7 @@ https://github.com/ripienaar/free-for-dev
 # desc
 # tag: self learn and self taught programmer
 https://dev.to/bytebodger/how-to-get-your-first-job-as-a-self-taught-programmer-1m1c
+
+# desc: interview code repo
+# tag: interview
+https://github.com/yangshun/tech-interview-handbook
