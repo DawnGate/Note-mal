@@ -39,3 +39,7 @@ https://github.com/yangshun/tech-interview-handbook
 # tag: better do work and maintain your work
 https://dev.to/samuelfaure/
 productivity-and-well-being-a-summary-of-what-works-55og
+
+# desc learn
+# design pattern
+https://www.udemy.com/course/typescript-design-patterns
