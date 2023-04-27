@@ -58,6 +58,7 @@ https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustration
 
 ## How 5 projects to master frontend 
 https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p
+https://dev.to/arafat4693/top-10-full-stack-projects-for-beginners-1338
 
 ## Perf improve in frontend
 https://dev.to/jacobandrewsky/frontend-web-performance-checklist-2o9j
