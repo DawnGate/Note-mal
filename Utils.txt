@@ -43,3 +43,8 @@ productivity-and-well-being-a-summary-of-what-works-55og
 # desc learn
 # design pattern
 https://www.udemy.com/course/typescript-design-patterns
+
+# interview question
+https://github.com/ruppysuppy/Daily-Coding-Problem-Solutions
+
+#interview question deep dive in react??
