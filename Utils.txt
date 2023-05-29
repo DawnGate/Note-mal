@@ -48,3 +48,4 @@ https://www.udemy.com/course/typescript-design-patterns
 https://github.com/ruppysuppy/Daily-Coding-Problem-Solutions
 
 #interview question deep dive in react??
+https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak
