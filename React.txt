@@ -66,3 +66,10 @@ https://dev.to/jacobandrewsky/frontend-web-performance-checklist-2o9j
 
 ## Design structure for react and react native
 https://reboot.studio/blog/folder-structures-to-organize-react-project
+
+## react query
+https://dev.to/nischal_dutt/querying-data-using-react-query-53l2
+https://dev.to/this-is-learning/react-query-usequery-36i
+
+## git hub
+https://dev.to/rajaniraiyn/understanding-the-contents-of-the-git-folder-ef
