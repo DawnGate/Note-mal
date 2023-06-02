@@ -49,3 +49,7 @@ https://github.com/ruppysuppy/Daily-Coding-Problem-Solutions
 
 #interview question deep dive in react??
 https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak
+
+
+## resource develop
+https://dev.to/devland/7-useful-resources-for-web-developers-379d
