@@ -1,0 +1,7 @@
+# Google
+https://m3.material.io/styles
+
+# Apple
+https://developer.apple.com/design/human-interface-guidelines
+
+# System design
