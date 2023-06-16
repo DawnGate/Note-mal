@@ -73,3 +73,6 @@ https://dev.to/this-is-learning/react-query-usequery-36i
 
 ## git hub
 https://dev.to/rajaniraiyn/understanding-the-contents-of-the-git-folder-ef
+
+## New information about react
+https://thisweekinreact.com/
