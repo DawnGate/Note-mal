@@ -76,3 +76,7 @@ https://dev.to/rajaniraiyn/understanding-the-contents-of-the-git-folder-ef
 
 ## New information about react
 https://thisweekinreact.com/
+
+
+# redux optimize
+https://medium.com/xandr-tech/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb
