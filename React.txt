@@ -80,3 +80,7 @@ https://thisweekinreact.com/
 
 # redux optimize
 https://medium.com/xandr-tech/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb
+
+
+# react atomic design -> not atomic but thinking create some atoms => view make you feel lazy when start if not correct what you will do
+https://github.com/danilowoz/react-atomic-design.git
