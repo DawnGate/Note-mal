@@ -84,3 +84,7 @@ https://medium.com/xandr-tech/five-tips-for-working-with-redux-in-large-applicat
 
 # react atomic design -> not atomic but thinking create some atoms => view make you feel lazy when start if not correct what you will do
 https://github.com/danilowoz/react-atomic-design.git
+
+
+# Create your own react components library
+:VV I like this work
