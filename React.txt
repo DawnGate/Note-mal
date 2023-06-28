@@ -85,7 +85,7 @@ https://medium.com/xandr-tech/five-tips-for-working-with-redux-in-large-applicat
 # react atomic design -> not atomic but thinking create some atoms => view make you feel lazy when start if not correct what you will do
 https://github.com/danilowoz/react-atomic-design.git
 
-# react -> lazy loading -> progressive loading -> progressive hydration
+# react -> lazy loading -> progressive loading -> progressive hydration (progressive enhancement + progressive loading)
 https://www.patterns.dev/posts/airbnb-casestudy
 
 
