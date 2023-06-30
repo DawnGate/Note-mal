@@ -95,3 +95,6 @@ https://www.patterns.dev/posts/airbnb-casestudy
 
 # web performance
 https://www.webperf.tips/
+
+# rendering strategics
+https://github.com/midudev/react-rendering-strategies
