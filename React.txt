@@ -91,3 +91,7 @@ https://www.patterns.dev/posts/airbnb-casestudy
 
 # Create your own react components library
 :VV I like this work
+
+
+# web performance
+https://www.webperf.tips/
