@@ -98,3 +98,6 @@ https://www.webperf.tips/
 
 # rendering strategics
 https://github.com/midudev/react-rendering-strategies
+
+# tailwind + css + prima + mongodb
+https://github.com/AntonioErdeljac/next13-airbnb-clone?ref=reactjsexample.com
