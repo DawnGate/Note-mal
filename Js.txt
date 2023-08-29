@@ -8,3 +8,6 @@ https://github.com/lydiahallie/javascript-questions
 
 # Deep dive in event loop
 https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810
+
+# config js project for typecheck
+==> in js.config => compilerOptions: "checkJs" => true
