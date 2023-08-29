@@ -101,3 +101,6 @@ https://github.com/midudev/react-rendering-strategies
 
 # tailwind + css + prima + mongodb
 https://github.com/AntonioErdeljac/next13-airbnb-clone?ref=reactjsexample.com
+
+# build components
+# when testing components in local, you should know that node_modules in your package with in your project is different. So with react you will get problem with reactContext is return null because the package using in library different react package with your app using this package
